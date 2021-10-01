@@ -1,0 +1,1 @@
+This assignment was part of the Cybernetics and Artificial Intelligence course at Czech Technical University. The assignment's goal was to implement an algorithm to search the maze and find the best way from start to end in an unknown environment using reinforcement learning. Teachers provided some code. Our task was to implement the algorithm to search in the maze.
